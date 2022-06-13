@@ -6,7 +6,7 @@
 ## Download Repository
 
 ```
-git clone https://github.com/gagat1/ML_Capstone-Project.git
+git clone https://github.com/Lustiyana/ML_Capstone-Project
 ```
 ## Click open Google Colab in Jupiter Notebook if you have not to open in your local directory
 ## Install Library
